@@ -12,7 +12,7 @@
 //Original Source code was obtained from 
 //Github user Ekberjan project Iris_Image_Matching
 //OpenCV version 2.4.10 library is also used
-////////////////////////////////////////
+///////////////////////////////////////////
 
 #include "stdafx.h"
 #include "opencv\cv.h"

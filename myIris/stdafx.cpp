@@ -1,3 +1,4 @@
+
 ///////////////////////////////////////////
 //Group 6 Iris Recognition
 //CEG4110 Dr. Bourbakis
@@ -12,8 +13,7 @@
 //Original Source code was obtained from 
 //Github user Ekberjan project Iris_Image_Matching
 //OpenCV version 2.4.10 library is also used
-////////////////////////////////////////
-
+///////////////////////////////////////////
 // stdafx.cpp : source file that includes just the standard includes
 // myIris.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
